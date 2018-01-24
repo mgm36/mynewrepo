@@ -25,6 +25,8 @@ $months = $age*12;
 print "In one year you will be: ".(++$age);
 
 print <<<FOOTER
+
+
 </body>
 </html>
 FOOTER;
