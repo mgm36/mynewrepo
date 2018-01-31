@@ -22,6 +22,8 @@ $difference = 2034-date("Y");
 
 $months = $age*12;
 
+echo "Hi".
+
 print "In one year you will be: ".(++$age);
 
 print <<<FOOTER
